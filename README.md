@@ -11,4 +11,4 @@ for this to run you need ruby and gosu
 
 info on how to install can be found on the [Ruby Gosu website](https://www.libgosu.org/ruby.html)
 
-after installing you can run by ```ruby 2048.rb
+after installing you can run by ```ruby 2048.rb```
