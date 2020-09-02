@@ -22,3 +22,7 @@ you move the squares with the arrow keys
 pressing 'r' will reload and 'esc' will close the window
 
 have fun!
+
+## just playing 
+
+if you are on a mac you can also just download the [game](https://github.com/lelilia/Learn_Game_Programming_with_Ruby/blob/main/2048/2048%20by%20Leli.zip) 
