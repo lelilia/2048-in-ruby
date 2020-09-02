@@ -18,6 +18,7 @@ after installing you can run by ```ruby 2048.rb```
 <img src="./2048%20screenshot.png" width="300">
 
 you move the squares with the arrow keys 
+
 pressing 'r' will reload and 'esc' will close the window
 
 have fun!
